@@ -1,0 +1,264 @@
+/* Homeservices css */
+@media(max-width: 767px){
+  .hp{ 
+    width: 161px;
+    height: 27px;
+    top: 1271px;
+    left: 207px;
+    font-family: Helvetica Neue;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    margin-left: 72px
+}}
+@media(max-width: 767px){
+  .imgcar {
+    
+    margin-top: -152px;
+
+    width: 21.5rem
+ 
+  
+}}
+
+@media(max-width: 767px){
+  .imgcar{width: 27rem;
+    max-width: 21.4rem;
+ 
+    margin-bottom: 30px;
+    .imgcar {
+      margin-bottom: -17px;
+      margin-left: -6px;
+      margin-top: -170px;
+      width: 668px;
+      height: 713px;
+      top: 612px;
+      left: -2263px;
+      padding: 216px 0px 0px 0px;
+      border-radius: 4px 0px 0px 4px;
+  }
+}}
+
+.container {
+    width: 100%;
+height: 665px;
+top: 141px;
+
+    /* position: relative;*/
+    text-align: center;
+   background: white;
+     
+  }
+  @media(max-width: 767px){
+    .hmimg1{
+      max-width: 23rem;
+      margin-bottom: 30px;
+  }}
+  
+
+  /* @media only screen and (min-width: 768px) {
+    #hmimg1 { 
+      width: 27rem;
+      height: 665px;
+      top: 141px
+    }
+  } */
+
+  .hmimg1{
+    width: 100%;
+    height: 665px;
+     top: 141px
+  }
+
+  .hmimg{
+    font: Helvetica Neue;
+     font-weight: 700;
+     font-size: 54px
+  }
+  .containe{
+
+  }
+  @media(max-width: 767px){
+    .btnpsn {color: white;
+      border: none;
+      margin-left: -26px;
+      margin-top: 9rem;
+  }}
+  .btnpsn{ margin-top: 9rem;
+    background: rgb(149, 0, 0);
+      padding: 11px 23.4062px 13px 20px;
+      border-radius: 4px;
+      border: 1px;
+      margin-left: 17m;
+      color: white;
+      text-decoration: none;
+      
+  }
+  @media(max-width: 767px){
+    .btnps{
+      background: rgb(149, 0, 0);
+      padding: 11px 23.4062px 13px 20px;
+      border-radius: 4px;
+      border: 1px;
+      margin-left: 17m;
+  }}
+  .btnps{
+    margin-left: -133px;
+  }
+  .crd{    width: 39rem;
+    margin-left: -153px;
+    margin-top: auto;
+  }
+
+  @media(max-width: 767px){
+    .crd{
+      width: 30rem;
+      margin-left: -153px;
+      margin-top: -49px;
+      margin-left: -20rem
+  }}
+
+  .text1{
+    /* font-family: Helvetica Neue;
+font-size: 54px;
+font-weight: 700;
+line-height: 57px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Helvetica Neue;
+font-size: 54px;
+font-style: italic;
+font-weight: 500;
+line-height: 57px;
+letter-spacing: 0em;
+text-align: left; */
+
+  }
+  
+  
+  
+  
+  .centered {
+    width: Fixed (825px);
+    /* height: Hug (121.47px);
+    padding: 0px 31.94061279296875px 6.46875px 0px;
+    
+
+/* background-color: rgb(0,0,0); Fallback color */
+  /* background-color: rgba(0,0,0, 0.4); Black w/opacity/see-through */
+  /* color: black;  */
+  
+  /* font-family: Helvetica Neue !important;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: left;
+   */
+
+  
+    position: absolute;
+    top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+    width: Hug (825px);
+height: Hug (292.47px); 
+top: 281px;
+left: 135px;
+gap: 30px;
+margin-left: 371px;
+
+    /* width: Hug (825px);
+height: Hug (292.47px);
+top: 220px;
+left: 161px;
+gap: 30px;
+width: 520px; */
+}
+.special{
+  width: 447px;
+height: 41px;
+top: 895px;
+left: 482px;
+
+
+font-family: Helvetica Neue;
+font-size: 48px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color:#000000;
+}
+.sub{
+  width: 582px;
+height: 42px;
+top: 991px;
+left: 429px;
+font-family: Helvetica Neue;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+font-family: Helvetica Neue;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.hm{
+  margin-top: 120px;
+}
+.mgn{
+  margin-right: 18px;
+    margin-top: -48px;
+}
+@media(max-width: 767px){
+  .mln{
+    margin-left: -21px;
+      max-height: rem;
+  }}
+.mln{
+  margin-left: -21px;
+    margin-top: -48px;
+}
+.hdb{    margin-left: 92px;
+  width: 333px;
+height: 27px;
+top: 1271px;
+left: 207px;
+font-family: Helvetica Neue;
+font-size: 32px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+.cd{
+  margin-top: 4.6rem;
+}
+.mgtp{
+  /* margin-top: 90px; */
+}
+
+.imgcar{    margin-bottom: -17px;
+    margin-left: -6px;
+    margin-top: -253px;
+    width: 668px;
+    height: 713px;
+    top: 612px;
+    left: -2263px;
+    padding: 216px 0px 0px 0px;
+    border-radius: 4px 0px 0px 4px;
+  
+}

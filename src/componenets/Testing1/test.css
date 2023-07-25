@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+.ww11{     margin-top: -3rem}
+
+.wimm{
+  height: 12rem;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.m2{
+  margin-left: ;
+}
+@media(max-width: 767px){
+  .m2{margin-top: 7rem;
+    margin-left: 8px;
+  }
+}
+@media(max-width: 767px){
+  .m22{margin-bottom: 7rem;
+    margin-left: 8px;
+  }
+}

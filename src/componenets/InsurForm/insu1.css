@@ -1,0 +1,113 @@
+.bod {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .bg-img { 
+    height: 911px;
+    /* The image used */
+    background-image: url("https://res.cloudinary.com/alpja/image/upload/v1688623553/Rectangle_12_1_cf68yh.png");
+  
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .slct{
+    width: 235px;
+height: 50px;
+flex-shrink: 0;
+  }
+  .carmodel{
+    display: flex;
+width: 163px;
+height: 24px;
+flex-direction: column;
+flex-shrink: 0;
+/* background-color: #F5F5F5; */
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+opacity: 2;
+color: #FFFFFF;
+  }
+  .contais {
+  
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 600px;
+    padding: 16px;
+    background-color: #F5F5F5;
+  }
+  @media(max-width: 767px){
+    .cc{
+      width: 90rem;
+      
+  }}
+  @media(max-width: 767px){
+    .contais{
+      max-width: 300px;
+      margin-bottom: 30px;
+  }}
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  .sp{
+       margin-top: 9rem!important;
+       background: none !important;
+       color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  /* display: flex; */
+  /* width: 224px; */
+  height: 41px;
+  flex-direction: column;
+  flex-shrink: 0;
+  }
+  /* Set a style for the submit button */
+  .blt {
+    display: flex;
+  padding: 16px 48px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: #950000;
+  color:#FAFAFA;
+margin-left: 10rem;
+    /* background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9; */
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
